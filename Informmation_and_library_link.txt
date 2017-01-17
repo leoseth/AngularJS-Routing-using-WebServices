@@ -1,0 +1,9 @@
+
+library link 
+
+https://www.angularjs.org/  -  this is the main site libray of AngularJS
+https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js
+https://code.angularjs.org/1.5.8/
+
+
+http://localhost:65335/StudentsService.asmx?op=GetAllStudents
